@@ -41,8 +41,6 @@ a:hover {
   flex-direction: column;
   align-self: center;
   background-color: #f6f6ef;
-  height: 100vh;
-
 }
 
 .hidden {
